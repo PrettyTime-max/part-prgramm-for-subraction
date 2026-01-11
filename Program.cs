@@ -77,3 +77,4 @@ public class program
         Console.WriteLine($"итог - {finish}");
     }
 }
+// check
